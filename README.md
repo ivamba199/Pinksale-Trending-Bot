@@ -1,2 +1,2 @@
 # Pinksale-Trending-Bot  - LEAKED 
-PASSOWRD: notforsale
+PASSWORD: notforsale
